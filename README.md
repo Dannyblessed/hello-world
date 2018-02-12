@@ -1,2 +1,3 @@
 # hello-world
-This is my first project on github
+Hi my name is Daniel and I am a aspiring android developer. 
+This is my hello-world project.
